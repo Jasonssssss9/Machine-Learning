@@ -281,7 +281,6 @@ print("My mse:", mse_2)
 <img src=".\image\6.jpg" alt="6" style="zoom:50%;" />
 
 ![7](.\image\7.jpg)
-
 可以看到最终结果差异不大
 
 

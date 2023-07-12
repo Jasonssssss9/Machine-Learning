@@ -6,9 +6,9 @@
 
 线性回归是一种常见的**有监督机器学习算法**，用于预测一个连续值的输出。梯度下降是一种优化算法，用于找到能够最小化目标函数的参数值。在线性回归中，梯度下降被用来最小化成本函数，最小化预测值与实际值之间的误差。
 
-<img src=".\image\1.jpg" alt="1" style="zoom:40%;" />
+<img src=".\image\1.jpg" alt="1" style="zoom:30%;" />
 
-<img src=".\image\2.jpg" alt="2" style="zoom:40%;" />
+<img src=".\image\2.jpg" alt="2" style="zoom:30%;" />
 
 
 

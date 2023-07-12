@@ -6,9 +6,9 @@
 
 线性回归是一种常见的**有监督机器学习算法**，用于预测一个连续值的输出。梯度下降是一种优化算法，用于找到能够最小化目标函数的参数值。在线性回归中，梯度下降被用来最小化成本函数，最小化预测值与实际值之间的误差。
 
-<img src="D:\实习\京东实习\线性回归递归下降法\image\1.jpg" alt="1" style="zoom:40%;" />
+<img src=".\image\1.jpg" alt="1" style="zoom:40%;" />
 
-<img src="D:\实习\京东实习\线性回归递归下降法\image\2.jpg" alt="2" style="zoom:40%;" />
+<img src=".\image\2.jpg" alt="2" style="zoom:40%;" />
 
 
 
@@ -217,15 +217,15 @@ plt.show()
 
 MSE迭代减小图像：
 
-<img src="D:\实习\京东实习\线性回归递归下降法\image\3.jpg" alt="3" style="zoom:50%;" />
+<img src=".\image\3.jpg" alt="3" style="zoom:50%;" />
 
 拟合结果
 
-<img src="D:\实习\京东实习\线性回归递归下降法\image\4.jpg" alt="4" style="zoom:50%;" />
+<img src=".\image\4.jpg" alt="4" style="zoom:50%;" />
 
 打印结果
 
-![5](D:\实习\京东实习\线性回归递归下降法\image\5.jpg)
+![5](.\image\5.jpg)
 
 #### 3.测试2
 
@@ -278,9 +278,9 @@ mse_2 = mean_squared_error(y_test, predictions_2)
 print("My mse:", mse_2)
 ~~~
 
-<img src="D:\实习\京东实习\线性回归递归下降法\image\6.jpg" alt="6" style="zoom:50%;" />
+<img src=".\image\6.jpg" alt="6" style="zoom:50%;" />
 
-![7](D:\实习\京东实习\线性回归递归下降法\image\7.jpg)
+![7](.\image\7.jpg)
 
 可以看到最终结果差异不大
 

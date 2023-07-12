@@ -225,7 +225,7 @@ MSE迭代减小图像：
 
 打印结果
 
-![5](.\image\5.jpg)
+<img src=".\image\5.jpg" alt="5" style="zoom:80%;" />
 
 #### 3.测试2
 
@@ -280,7 +280,8 @@ print("My mse:", mse_2)
 
 <img src=".\image\6.jpg" alt="6" style="zoom:50%;" />
 
-![7](.\image\7.jpg)
+<img src=".\image\7.jpg" alt="7" style="zoom:80%;" />
+
 可以看到最终结果差异不大
 
 
